@@ -4,8 +4,8 @@
 
 ## Welcome
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+Hello and welcome to Dungeon Diaries, my site / blog for my latest DnD campaign.
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+This site will be used to store session notes and useful information for my players.
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+It is very much a work in progress.... Enjoy !
