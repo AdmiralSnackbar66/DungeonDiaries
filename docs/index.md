@@ -1,8 +1,8 @@
-# Obsidian Notes
+# Dungeon Diaries
 
-Publish your public notes with MkDocs
 
-## Hello World!
+
+## Welcome
 
 The `index.md` in the `/docs` folder is the homepage you see here.
 
