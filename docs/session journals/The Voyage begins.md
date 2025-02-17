@@ -1,0 +1,74 @@
+---
+type: session
+campaign: Dragons of Stormwreck Isle
+world: Dragons of Stormwreck Isle
+sessionNum: 1
+location: 
+date: 2025-02-15
+fc-calendar: The Forgotten Realms
+fc-date:
+  year: 0
+  month: 0
+  day: 0
+fc-category: Sessions
+long_rest: false
+short_rest: false
+summary: 
+tags:
+  - inbox
+art: ""
+---
+# [[001_20250215]]
+
+## Session Summary
+
+> [!tldr] [[001_20250215]]
+>  ^summary
+
+---
+
+## Housekeeping
+
+
+
+## Recap
+
+![[No games found#^summary]]
+
+## Strong start
+
+> 
+
+## Scenes
+
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+## Secrets and Clues
+
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+## Loot
+
+- [ ] 
+
+---
+
+## Log
+
+fzdklfjkdasdv
+
+this is the log for the session
+
+quick notes to be taken here for [[ttrpgs/The Forgotten Realms/World|World]]
