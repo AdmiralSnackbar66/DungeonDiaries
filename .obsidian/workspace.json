@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e8fcabed6268df83",
+        "id": "b8b69b22728d8b5b",
         "type": "tabs",
         "children": [
           {
-            "id": "c7f806c37fd3fb7d",
+            "id": "4561e2a75fc9fdc6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ttrpgs/TTRPGs Games Index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TTRPGs Games Index"
+              "title": "New tab"
             }
           }
         ]
@@ -220,12 +216,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ttrpgs/TTRPGs Games Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TTRPGs Games Index"
+              "title": "Outgoing links"
             }
           }
         ],
@@ -256,8 +251,11 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "b5ef4cb7f7786d8f",
+  "active": "4561e2a75fc9fdc6",
   "lastOpenFiles": [
+    "docs/blog/posts/First blog entry ....md",
+    "ttrpgs/Untitled.md",
+    "ttrpgs/TTRPGs Games Index.md",
     "CNAME",
     "docs/assets/css/extensions/tabbed.css",
     "docs/assets/css/extra.css",
@@ -267,7 +265,6 @@
     "TTRPGs/Test 2025-01-15/World.md",
     "ttrpgs/Test 2025-01-15/World.md",
     "ttrpgs/Test 2025-01-15",
-    "ttrpgs/TTRPGs Games Index.md",
     "TTRPGs/Test 2025-01-15",
     "templates/world.md",
     "Readme.md",
@@ -289,10 +286,8 @@
     "sources/13th Age/13th Age.md",
     "sources/Dungeons and Dragons/5e/Tome of Mystical Tattoos/Tome of Mystical Tattoos.md",
     "sources/Pathfinder/2e/Jewel of the Indigo Isles.md",
-    "sources/Pathfinder/2e",
     "sources/Dungeons and Dragons/5e/Limitless Heroics/Limitless Heroics.md",
     "sources/Cypher/Numenera Discovery.md",
-    "sources/Dungeons and Dragons/5e/MCDM/Arcadia/Arcadia 19.md",
-    "sources/Dungeons and Dragons/5e/MCDM/Arcadia/Arcadia Index.md"
+    "sources/Dungeons and Dragons/5e/MCDM/Arcadia/Arcadia 19.md"
   ]
 }
