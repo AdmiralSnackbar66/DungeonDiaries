@@ -11,10 +11,14 @@
             "id": "4561e2a75fc9fdc6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -216,11 +220,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from index"
             }
           }
         ],
@@ -253,8 +258,8 @@
   },
   "active": "4561e2a75fc9fdc6",
   "lastOpenFiles": [
-    "docs/CNAME",
     "docs/blog/posts/First blog entry ....md",
+    "docs/CNAME",
     "ttrpgs/Untitled.md",
     "ttrpgs/TTRPGs Games Index.md",
     "CNAME",
@@ -283,7 +288,6 @@
     "sources/Dungeons and Dragons/5e/Monster Manual/Monster Manual.md",
     "sources/List of Sources.md",
     "sources/Any/Oracle Story Generator.md",
-    "sources/Any",
     "sources/13th Age/13th Age.md",
     "sources/Dungeons and Dragons/5e/Tome of Mystical Tattoos/Tome of Mystical Tattoos.md",
     "sources/Pathfinder/2e/Jewel of the Indigo Isles.md",
